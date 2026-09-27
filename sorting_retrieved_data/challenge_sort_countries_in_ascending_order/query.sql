@@ -1,0 +1,3 @@
+SELECT NAME
+FROM country
+ORDER  BY NAME;
